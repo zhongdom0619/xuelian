@@ -2,19 +2,18 @@
 layout: post
 title: "EGU General Assembly 2026"
 date: 2026-05-04 00:00:00 +0800
-tags: [Conference, EGU]
+tags: [Conference, EGU, Poster]
 excerpt: >-
-  A short note on attending the EGU General Assembly 2026 and communicating my research in atmospheric chemistry.
+  I presented a poster at the EGU General Assembly 2026 in Vienna, Austria.
 ---
 
-![EGU General Assembly 2026]({{ '/assets/images/blog/egu-2026.jpg' | relative_url }})
+<p align="center">
+  <img src="{{ '/assets/images/blog/egu-2026.jpg' | relative_url }}" alt="EGU General Assembly 2026" style="max-width: 650px; width: 100%; height: auto;">
+</p>
+<p align="center" style="font-size: 0.9rem; color: #666; margin-top: -0.5rem;">
+  Poster presentation at the EGU General Assembly 2026, Vienna, Austria.
+</p>
 
-I attended the **EGU General Assembly 2026** in Vienna, Austria.
+I presented a poster entitled **"Nitrous Acid (HONO) Emission from Marine Algae"** in the session **"BG1.6 Nitrogen Cycling in the Anthropocene: Microbiological Processes, Land-atmosphere- Interactions and Global Change Feedbacks"** at the **EGU General Assembly 2026** in Vienna, Austria.
 
-The EGU General Assembly is one of the major international meetings in geosciences, bringing together researchers working on atmospheric science, climate, environmental chemistry, Earth system processes, and related fields.
-
-For my research, EGU provides a valuable opportunity to learn about recent progress in atmospheric composition, air quality, reactive nitrogen chemistry, and atmospheric oxidation processes. It is also a good platform to communicate my work on HONO chemistry and receive feedback from the broader atmospheric science community.
-
-Attending this meeting helped me think more broadly about how HONO chemistry connects with atmospheric oxidation capacity, air pollution, and coastal atmospheric processes.
-
-[Conference website](https://www.egu26.eu/)
+The poster presented my research on **HONO emissions from marine algae and their potential impacts on coastal atmospheric oxidation chemistry**, highlighting marine algae as a previously overlooked biological source of atmospheric HONO.
