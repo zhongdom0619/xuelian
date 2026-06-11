@@ -19,4 +19,6 @@ authors:
   - Guo, M.
   - Shang, F.
   - et al.
+links:
+  DOI: https://doi.org/10.1016/j.aosl.2024.100523
 ---
