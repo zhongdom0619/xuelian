@@ -7,7 +7,12 @@ excerpt: >-
   A research note on our Atmospheric Chemistry and Physics paper about HONO budgets and potential daytime marine sources in the coastal atmosphere.
 ---
 
-![HONO budgets in the coastal atmosphere]({{ '/assets/images/covers/2023-acp-hono-coastal.png' | relative_url }})
+<p align="center">
+  <img src="{{ '/assets/images/covers/2023-acp-hono-coastal.png' | relative_url }}" alt="HONO emission from marine algae" style="max-width: 650px; width: 100%; height: auto;">
+</p>
+<p align="center" style="font-size: 0.9rem; color: #666; margin-top: -0.5rem;">
+  Comparison of the observed and modeled daytime HONO concentrations and modeled HONO budgets in the land case and the sea case.
+</p>
 
 Our paper **"Nitrous acid budgets in the coastal atmosphere: potential daytime marine sources"** was published in *Atmospheric Chemistry and Physics*.
 
