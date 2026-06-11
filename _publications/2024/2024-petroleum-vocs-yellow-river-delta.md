@@ -4,7 +4,7 @@ date: 2024-06-01 00:01:00 +0800
 selected: false
 pub: "Atmospheric and Oceanic Science Letters, 17(6), 100523"
 pub_date: "2024"
-cover: /assets/images/covers/2024-petroleum-vocs-yellow-river-delta.jpeg
+cover: /assets/images/covers/2024-petroleum-vocs-yellow-river-delta.jpg
 abstract: >-
   This study uses year-long observations in the Yellow River Delta to evaluate contributions of the
   petroleum industry to VOCs and ozone pollution.
