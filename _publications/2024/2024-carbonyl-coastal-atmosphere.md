@@ -19,4 +19,6 @@ authors:
   - Zhu, Y.
   - Li, H.
   - et al.
+links:
+  DOI: https://doi.org/10.1021/acs.est.4c03947
 ---
