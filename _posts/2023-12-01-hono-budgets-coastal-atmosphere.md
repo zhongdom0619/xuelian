@@ -2,7 +2,7 @@
 layout: post
 title: "Nitrous Acid Budgets in the Coastal Atmosphere"
 date: 2023-12-01 00:00:00 +0800
-tags: [Paper, HONO, Coastal Atmosphere, ACP]
+tags: [Paper, HONO, Coastal Atmosphere]
 excerpt: >-
   A research note on our Atmospheric Chemistry and Physics paper about HONO budgets and potential daytime marine sources in the coastal atmosphere.
 ---
