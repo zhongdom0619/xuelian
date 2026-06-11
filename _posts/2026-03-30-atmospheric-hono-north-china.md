@@ -2,7 +2,7 @@
 layout: post
 title: "Atmospheric Nitrous Acid in Contrasting Environments in North China"
 date: 2026-03-31 00:00:00 +0800
-tags: [Paper, HONO, Atmospheric Chemistry, Environmental Science & Technology]
+tags: [Paper, HONO, Model]
 excerpt: >-
   A research note on our Environmental Science & Technology paper about atmospheric HONO in contrasting environments in North China.
 ---
