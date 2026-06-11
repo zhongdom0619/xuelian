@@ -2,7 +2,7 @@
 layout: post
 title: "HONO Emission from Marine Algae"
 date: 2026-05-07 00:00:00 +0800
-tags: [Paper, HONO, Marine Atmosphere]
+tags: [Paper, HONO, Algae, Marine Atmosphere]
 excerpt: >-
   A research note on our Science Advances paper about HONO emission from marine algae and its implications for coastal atmospheric oxidation chemistry.
 ---
