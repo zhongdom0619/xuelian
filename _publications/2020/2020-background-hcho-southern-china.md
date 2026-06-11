@@ -16,5 +16,5 @@ authors:
   - Li, Z.
   - Zhong, X.
 links:
-  DOI: https://doi.org/10.1021/acs.est.3c03884
+  DOI: https://doi.org/10.1016/j.atmosres.2020.104941
 ---
