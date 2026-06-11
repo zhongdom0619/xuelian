@@ -1,6 +1,6 @@
 ---
 title: "Marine sources of formaldehyde in the coastal atmosphere"
-date: 2025-01-01 00:01:00 +0800
+date: 2025-06-01 00:01:00 +0800
 selected: false
 pub: "Science Bulletin, 70(1), 96-103"
 pub_date: "2025"
