@@ -7,7 +7,9 @@ excerpt: >-
   A research note on our Science Advances paper about HONO emission from marine algae and its implications for coastal atmospheric oxidation chemistry.
 ---
 
-![HONO emission from marine algae]({{ '/assets/images/covers/2026-hono-marine-algae.jpg' | relative_url }})
+<p align="center">
+  <img src="{{ '/assets/images/blog/2026-hono-marine-algae.jpg' | relative_url }}" alt="HONO emission from marine algae" style="max-width: 650px; width: 100%; height: auto;">
+</p>
 
 Our paper **"HONO emission from marine algae"** was published in *Science Advances*.
 
