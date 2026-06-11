@@ -1,6 +1,6 @@
 ---
 title: "Explicit modeling of background HCHO formation in southern China"
-date: 2020-01-01 00:01:00 +0800
+date: 2020-06-01 00:01:00 +0800
 selected: false
 pub: "Atmospheric Research, 240, 104941"
 pub_date: "2020"
@@ -15,4 +15,6 @@ authors:
   - Wei, X.
   - Li, Z.
   - Zhong, X.
+links:
+  DOI: https://doi.org/10.1021/acs.est.3c03884
 ---
