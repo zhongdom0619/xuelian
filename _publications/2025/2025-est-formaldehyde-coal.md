@@ -4,7 +4,7 @@ date: 2025-12-11 00:01:00 +0800
 selected: false
 pub: "Environmental Science & Technology, 59(50), 27508-27516"
 pub_date: "2025"
-cover: /assets/images/covers/2025-est-formaldehyde-coal.jpg
+cover: /assets/images/covers/2025-est-formaldehyde-coal.jpeg
 abstract: >-
   This study reports formaldehyde emissions from residential coal combustion in rural China and
   discusses their implications for atmospheric chemistry and air quality.
