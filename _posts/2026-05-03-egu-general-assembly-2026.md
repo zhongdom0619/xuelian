@@ -14,6 +14,6 @@ excerpt: >-
   Poster presentation at the EGU General Assembly 2026, Vienna, Austria.
 </p>
 
-I presented a poster entitled **"Nitrous Acid (HONO) Emission from Marine Algae"** in the session **"BG1.6 Nitrogen Cycling in the Anthropocene: Microbiological Processes, Land-atmosphere- Interactions and Global Change Feedbacks"** at the **EGU General Assembly 2026** in Vienna, Austria.
+I presented a poster entitled **"Nitrous Acid (HONO) Emission from Marine Algae"** in the session "BG1.6 Nitrogen Cycling in the Anthropocene: Microbiological Processes, Land-atmosphere- Interactions and Global Change Feedbacks" at the EGU General Assembly 2026 in Vienna, Austria.
 
 The poster presented my research on HONO emissions from marine algae and their potential impacts on coastal atmospheric oxidation chemistry, highlighting marine algae as a previously overlooked biological source of atmospheric HONO.
