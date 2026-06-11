@@ -1,6 +1,3 @@
-## `_publications/2026/2026-hono-marine-algae.md`
-
-```yml
 ---
 title: "HONO emission from marine algae"
 date: 2026-05-08 00:01:00 +0800
@@ -28,4 +25,3 @@ authors:
 links:
   DOI: https://doi.org/10.1126/sciadv.aeb8486
 ---
-```
