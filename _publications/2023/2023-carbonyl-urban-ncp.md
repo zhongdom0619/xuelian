@@ -16,4 +16,6 @@ authors:
   - Zhang, P.
   - Zhong, X.
   - Song, H.
+links:
+  DOI: https://doi.org/10.1016/j.envpol.2023.121908
 ---
