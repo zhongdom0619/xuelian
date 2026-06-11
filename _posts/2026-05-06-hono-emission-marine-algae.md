@@ -10,6 +10,9 @@ excerpt: >-
 <p align="center">
   <img src="{{ '/assets/images/blog/2026-hono-marine-algae.jpg' | relative_url }}" alt="HONO emission from marine algae" style="max-width: 650px; width: 100%; height: auto;">
 </p>
+<p align="center" style="font-size: 0.9rem; color: #666; margin-top: -0.5rem;">
+  Schematic diagram illustrating HONO emissions from algal photodecomposition and their impacts on coastal atmospheric chemistry.
+</p>
 
 Our paper **"HONO emission from marine algae"** was published in *Science Advances*.
 
