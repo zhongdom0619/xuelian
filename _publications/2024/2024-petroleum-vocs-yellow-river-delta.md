@@ -1,6 +1,6 @@
 ---
 title: "Significant contributions of the petroleum industry to volatile organic compounds and ozone pollution: Insights from year-long observations in the Yellow River Delta"
-date: 2024-06-01 00:01:00 +0800
+date: 2024-11-01 00:01:00 +0800
 selected: false
 pub: "Atmospheric and Oceanic Science Letters, 17(6), 100523"
 pub_date: "2024"
