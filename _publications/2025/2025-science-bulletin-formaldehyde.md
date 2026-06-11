@@ -6,7 +6,7 @@ pub: "Science Bulletin, 70(1), 96-103"
 pub_date: "2025"
 cover: /assets/images/covers/2025-science-bulletin-formaldehyde.jpg
 abstract: >-
-  This paper investigates marine sources of atmospheric formaldehyde in coastal environments and
+  This study investigates marine sources of atmospheric formaldehyde in coastal environments and
   their relevance to atmospheric oxidation chemistry.
 authors:
   - Shen, H.
