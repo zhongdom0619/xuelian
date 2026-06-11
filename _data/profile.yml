@@ -1,21 +1,19 @@
 primary_name: "Xuelian Zhong"
-secondary_name: ""
+secondary_name: "钟雪莲"
 navbar_name: "Xuelian Zhong"
 
 positions:
 - name: PhD student
 - name: Shandong University
-  logo: E:/钟雪莲研究生/日常工作/11-个人主页/photo/sdu/SDU_logo.jpg  # Logo is optional
+  logo: /assets/images/badges/SDU_logo.jpg
 
 
 email: "xuelianzhong@mail.sdu.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+gscholar: HKGgJ1UAAAAJ  # This is an example, replace it with your own Google Scholar ID
+researchgate: https://www.researchgate.net/profile/Xuelian-Zhong
+orcid: 0000-0001-9370-8371
 # linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
@@ -30,19 +28,19 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/xuelian.jpg
 # portrait_caption: >-
-#  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Shandong University
+  logo: /assets/images/badges/SDU_logo.jpg
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Environment Research Institute <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2021 - present
+- name: Shandong Jianzhu University
+  logo: /assets/images/badges/SJU.png
+  position: B.S. in Environmental Engineering
+  date: Sep. 2017 - Jun. 2021
 
 # experience:
 # - name: Peking University
@@ -51,9 +49,9 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
+- name: First-class academic scholarship, Shandong University 
   date: 2024
-- name: Award Name 1 
+- name: Graduate Scholarship, Shandong University
   date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
+- name: Outstanding Graduates of Shandong Province 
   date: 2021
