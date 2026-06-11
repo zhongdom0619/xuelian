@@ -20,8 +20,8 @@ HONO is an important source of OH radicals after photolysis, and therefore plays
 
 In this study, we examined atmospheric HONO in contrasting environments in North China. By comparing different environmental conditions, this work helps clarify how HONO formation, loss, and atmospheric impact change across regions and pollution levels.
 
-This paper represents one of my main first-author works. It reflects my interest in understanding HONO not as a single-site phenomenon, but as a chemical process that depends on emissions, meteorology, surfaces, radiation, and atmospheric composition.
+This paper represents one of my main first-author works. It reflects my interest in understanding HONO not as a single-site phenomenon, but as a chemical process that depends on emissions, meteorology, and atmospheric composition.
 
-The study contributes to a broader question in atmospheric chemistry: **how can we better represent HONO sources and budgets in real atmospheric environments?**
+The study contributes to a broader question in atmospheric chemistry: **how can we better understand HONO sources and budgets in different atmospheric environments?**
 
 [Read the paper](https://doi.org/10.1021/acs.est.6c01752)
