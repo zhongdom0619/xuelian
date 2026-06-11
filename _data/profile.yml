@@ -38,11 +38,13 @@ education:
   logo: /assets/images/badges/SDU_logo.jpg
   position: >- 
     Environment Research Institute <br/>
-    Ph.D. Student
+    Ph.D. Student in Environmental Science and Engineering
   date: Sep. 2021 - present
 - name: Shandong Jianzhu University
   logo: /assets/images/badges/SJU_logo.jpg
-  position: B.S. in Environmental Engineering
+  position: >- 
+    School of Municipal and Environmental Engineering <br/>
+    B.S. in Environmental Engineering
   date: Sep. 2017 - Jun. 2021
 
 # experience:
