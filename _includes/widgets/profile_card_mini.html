@@ -54,6 +54,12 @@
                             <i class="fab fa-google-scholar"></i>
                         </a>
                         {% endif %}
+
+                        {% if site.data.profile.researchgate %}
+                        <a class="px-1 no-break" target="_blank" href="{{ site.data.profile.researchgate }}" title="ResearchGate">
+                            <i class="fab fa-researchgate"></i>
+                        </a>
+                        {% endif %}
                         
                         {% if site.data.profile.github %}
                         <a class="px-1 no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
