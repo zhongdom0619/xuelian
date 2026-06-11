@@ -7,7 +7,12 @@ excerpt: >-
   A research note on our Environmental Science & Technology paper about atmospheric HONO in contrasting environments in North China.
 ---
 
-![Atmospheric HONO in North China]({{ '/assets/images/covers/2026-est-hono-north-china.jpg' | relative_url }})
+<p align="center">
+  <img src="{{ '/assets/images/blog/2026-est-hono-north-china.jpg' | relative_url }}" alt="Atmospheric Nitrous Acid in Contrasting Environments in North China" style="max-width: 650px; width: 100%; height: auto;">
+</p>
+<p align="center" style="font-size: 0.9rem; color: #666; margin-top: -0.5rem;">
+  Schematic illustration of daytime HONO formation pathways across three contrasting environments (urban, mountain, and coastal). 
+</p>
 
 Our paper **"Atmospheric Nitrous Acid in Contrasting Environments in North China"** was published in *Environmental Science & Technology*.
 
