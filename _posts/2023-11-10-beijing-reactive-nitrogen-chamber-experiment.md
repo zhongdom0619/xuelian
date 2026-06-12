@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beijing Reactive Nitrogen Chamber Experiment"
-date: 2023-11-21 00:00:00 +0800
+date: 2023-11-10 00:00:00 +0800
 tags: [Chamber Experiment, Reactive Nitrogen]
 excerpt: >-
   A chamber experiment in Beijing, focusing on the comparison of instruments for measuring reactive nitrogen species.
