@@ -26,7 +26,7 @@ images:
       I am a member of the TRACE research group at Shandong University. Our group focuses on atmospheric chemistry, air pollution, reactive nitrogen chemistry, and atmospheric oxidation processes.
     </p>
     <p class="text-muted mb-0">
-      These moments record my research life with the group, including academic discussions, field measurements, and shared experiences during my Ph.D. study.
+      I sincerely appreciate the guidance and support from my teachers, as well as the kindness and companionship of my groupmates. These moments with the group are an important and warm part of my Ph.D. life.
     </p>
   </div>
 </div>
