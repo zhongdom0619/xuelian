@@ -8,7 +8,7 @@ excerpt: >-
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/blog/mount-tai.jpeg' | relative_url }}" alt="Mount Tai field campaign" style="max-width: 600px; width: 100%; height: auto;">
+  <img src="{{ '/assets/images/blog/mountain-tai.jpeg' | relative_url }}" alt="Mount Tai field campaign" style="max-width: 600px; width: 100%; height: auto;">
 </p>
 
 In summer of 2021, I participated in a field measurement campaign at **Mount Tai**, a mountain site that is useful for studying atmospheric processes under elevated and regionally influenced conditions.
