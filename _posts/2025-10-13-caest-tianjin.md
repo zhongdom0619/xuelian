@@ -16,4 +16,4 @@ excerpt: >-
 
 I gave an oral presentation at the **31st Conference on Atmospheric Environmental Science and Technology** in Tianjin, China.
 
-My presentation focused on Atmospheric Nitrous Acid in Contrasting Environments in North China.
+My presentation focused on "Atmospheric Nitrous Acid in Contrasting Environments in North China".
