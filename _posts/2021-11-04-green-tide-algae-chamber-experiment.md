@@ -8,7 +8,7 @@ excerpt: >-
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/blog/green-tide-chamber-2021.jpg' | relative_url }}" alt="Green tide algae chamber experiment" style="max-width: 600px; width: 100%; height: auto;">
+  <img src="{{ '/assets/images/blog/algae-chamber-2021.jpg' | relative_url }}" alt="Green tide algae chamber experiment" style="max-width: 600px; width: 100%; height: auto;">
 </p>
 
 In 2021, I participated in a chamber experiment investigating emissions from **green tide algae** under controlled conditions.
