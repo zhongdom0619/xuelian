@@ -16,4 +16,4 @@ excerpt: >-
 
 I presented a poster at the **6th Atmospheric Ozone Pollution Control Symposium** in Qingdao, China.
 
-My presentation focus on 
+I presented a poster entitled "Analysis of the differences in the source-sink mechanisms of HONO in different atmospheric environments".
