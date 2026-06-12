@@ -23,7 +23,7 @@ images:
   <div class="col-md-5 p-4">
     <h3>TRACE Group</h3>
     <p class="text-muted">
-      I am a member of the TRACE research group at Shandong University. Our group focuses on the atmospheric processes and environmental effects of reactive gases, the chemical interactions between the ocean and the atmosphere, the causes and control of ozone pollution.
+      I am a member of the TRACE research group at Shandong University. Our group focuses on the atmospheric processes and environmental effects of reactive gases, the chemical interactions between the ocean and the atmosphere, and the causes and control of ozone pollution.
     </p>
     <p class="text-muted mb-0">
       I sincerely appreciate the guidance and support from my teachers, as well as the kindness and companionship of my groupmates. These moments with the group are an important and warm part of my Ph.D. life.
