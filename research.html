@@ -4,6 +4,48 @@ title: Research
 navbar_title: Research
 ---
 
+<style>
+  .research-gallery {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 0.75rem;
+    margin: 1rem 0 1.5rem;
+  }
+
+  .research-gallery a {
+    display: block;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    background: #fff;
+    padding: 0.35rem;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+
+  .research-gallery a:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.08);
+  }
+
+  .research-gallery img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: contain;
+    display: block;
+  }
+
+  @media (max-width: 992px) {
+    .research-gallery {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 576px) {
+    .research-gallery {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+</style>
+
 <div class="row">
   <div class="col-12">
     <h1 class="pt-4">Research</h1>
@@ -36,12 +78,31 @@ navbar_title: Research
     box modelling, with a focus on understanding daytime HONO sources and their potential marine
     contribution.
   </p>
+
+  <div class="research-gallery" aria-label="Figures for HONO budgets in the coastal atmosphere">
+    <a href="{{ '/assets/images/research/hono-coastal-1.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-coastal-1.jpg' | relative_url }}" alt="HONO coastal atmosphere figure 1">
+    </a>
+    <a href="{{ '/assets/images/research/hono-coastal-2.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-coastal-2.jpg' | relative_url }}" alt="HONO coastal atmosphere figure 2">
+    </a>
+    <a href="{{ '/assets/images/research/hono-coastal-3.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-coastal-3.jpg' | relative_url }}" alt="HONO coastal atmosphere figure 3">
+    </a>
+    <a href="{{ '/assets/images/research/hono-coastal-4.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-coastal-4.jpg' | relative_url }}" alt="HONO coastal atmosphere figure 4">
+    </a>
+    <a href="{{ '/assets/images/research/hono-coastal-5.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-coastal-5.jpg' | relative_url }}" alt="HONO coastal atmosphere figure 5">
+    </a>
+  </div>
+
   <p>
     <strong>Paper:</strong> Zhong, X. et al. Nitrous acid budgets in the coastal atmosphere:
     potential daytime marine sources. <em>Atmospheric Chemistry and Physics</em>, 2023.
   </p>
   <p>
-    <a href="{{ '/blog/2023/12/01/hono-budgets-coastal-atmosphere' | relative_url }}">
+    <a href="{{ '/blog/2023-12-01-hono-budgets-coastal-atmosphere' | relative_url }}">
       Read the blog post <i class="fas fa-angle-double-right"></i>
     </a>
   </p>
@@ -55,12 +116,31 @@ navbar_title: Research
     clarify how HONO sources, budgets, and atmospheric roles change under different pollution and
     environmental conditions.
   </p>
+
+  <div class="research-gallery" aria-label="Figures for atmospheric HONO in contrasting environments">
+    <a href="{{ '/assets/images/research/hono-north-china-1.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-north-china-1.jpg' | relative_url }}" alt="Atmospheric HONO in North China figure 1">
+    </a>
+    <a href="{{ '/assets/images/research/hono-north-china-2.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-north-china-2.jpg' | relative_url }}" alt="Atmospheric HONO in North China figure 2">
+    </a>
+    <a href="{{ '/assets/images/research/hono-north-china-3.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-north-china-3.jpg' | relative_url }}" alt="Atmospheric HONO in North China figure 3">
+    </a>
+    <a href="{{ '/assets/images/research/hono-north-china-4.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-north-china-4.jpg' | relative_url }}" alt="Atmospheric HONO in North China figure 4">
+    </a>
+    <a href="{{ '/assets/images/research/hono-north-china-5.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-north-china-5.jpg' | relative_url }}" alt="Atmospheric HONO in North China figure 5">
+    </a>
+  </div>
+
   <p>
     <strong>Paper:</strong> Zhong, X. et al. Atmospheric Nitrous Acid in Contrasting Environments
     in North China. <em>Environmental Science &amp; Technology</em>, 2026.
   </p>
   <p>
-    <a href="{{ '/blog/2026/03/30/atmospheric-hono-north-china' | relative_url }}">
+    <a href="{{ '/blog/2026-03-30-atmospheric-hono-north-china' | relative_url }}">
       Read the blog post <i class="fas fa-angle-double-right"></i>
     </a>
   </p>
@@ -73,12 +153,31 @@ navbar_title: Research
     In this work, we investigated HONO emission from marine algae and evaluated its potential
     implications for coastal atmospheric oxidation chemistry.
   </p>
+
+  <div class="research-gallery" aria-label="Figures for HONO emission from marine algae">
+    <a href="{{ '/assets/images/research/hono-algae-1.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-algae-1.jpg' | relative_url }}" alt="HONO emission from marine algae figure 1">
+    </a>
+    <a href="{{ '/assets/images/research/hono-algae-2.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-algae-2.jpg' | relative_url }}" alt="HONO emission from marine algae figure 2">
+    </a>
+    <a href="{{ '/assets/images/research/hono-algae-3.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-algae-3.jpg' | relative_url }}" alt="HONO emission from marine algae figure 3">
+    </a>
+    <a href="{{ '/assets/images/research/hono-algae-4.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-algae-4.jpg' | relative_url }}" alt="HONO emission from marine algae figure 4">
+    </a>
+    <a href="{{ '/assets/images/research/hono-algae-5.jpg' | relative_url }}" target="_blank">
+      <img src="{{ '/assets/images/research/hono-algae-5.jpg' | relative_url }}" alt="HONO emission from marine algae figure 5">
+    </a>
+  </div>
+
   <p>
     <strong>Paper:</strong> Shen, H.*, Zhong, X.* et al. HONO emission from marine algae.
     <em>Science Advances</em>, 2026.
   </p>
   <p>
-    <a href="{{ '/blog/2026/05/06/hono-emission-marine-algae' | relative_url }}">
+    <a href="{{ '/blog/2026-05-06-hono-emission-marine-algae' | relative_url }}">
       Read the blog post <i class="fas fa-angle-double-right"></i>
     </a>
   </p>
