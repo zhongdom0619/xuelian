@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 6th Atmospheric Ozone Pollution Control Symposium"
-date: 2024-04-01 00:00:00 +0800
+date: 2024-04-17 00:00:00 +0800
 tags: [Conference, Poster]
 excerpt: >-
   I presented a poster at the 6th Atmospheric Ozone Pollution Control Symposium in Qingdao, China.
