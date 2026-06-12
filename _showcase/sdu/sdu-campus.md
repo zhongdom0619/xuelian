@@ -26,7 +26,7 @@ images:
       Shandong University is where I started my Ph.D. training in Environmental Science and Engineering.
     </p>
     <p class="text-muted mb-0">
-      My research experience here includes field observations, chamber experiments, data analysis, and chemical box modelling related to atmospheric HONO and reactive nitrogen chemistry.
+      I enjoy the campus, the coastal atmosphere of Qingdao, and many ordinary but memorable moments here.
     </p>
   </div>
 </div>
