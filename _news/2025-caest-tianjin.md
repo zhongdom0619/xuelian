@@ -1,5 +1,6 @@
 ---
 title: >-
-  I presented my research at the 31st Conference on Atmospheric Environmental Science and Technology in Tianjin, China.
+  I presented at the 31st Conference on Atmospheric Environmental Science and Technology in Tianjin, China.
+  <a href="https://zhongdom0619.github.io/xuelian/2025/11/13/caest-tianjin" target="_blank">Read more <i class="fas fa-angle-double-right"></i></a>
 date: 2025-10-14 00:00:00 +0800
 ---
