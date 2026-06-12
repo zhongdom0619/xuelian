@@ -1,15 +1,32 @@
 ---
 show: true
-width: 4
-date: 2024-04-01 00:00:00 +0800
-group: Shandong University
+width: 12
+date: 2026-02-01 00:00:00 +0800
+group: Gallery
+height: 360px
+images:
+- src: /assets/images/showcase/sdu/sdu-1.jpg
+  title: Shandong University
+  desc: A moment at SDU.
+- src: /assets/images/showcase/sdu/sdu-2.jpg
+  title: Shandong University
+  desc: A moment at SDU.
+- src: /assets/images/showcase/sdu/sdu-3.jpg
+  title: Shandong University
+  desc: A moment at SDU.
 ---
 
-<img src="{{ '/assets/images/showcase/sdu/sdu-campus-1.jpg' | relative_url }}" class="img-fluid rounded" alt="Shandong University">
-
-<div class="p-3">
-  <h5>Shandong University</h5>
-  <p class="mb-0 text-muted">
-    A moment from my Ph.D. life at Shandong University, Qingdao, China.
-  </p>
+<div class="row align-items-center">
+  <div class="col-md-7">
+    {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
+  </div>
+  <div class="col-md-5 p-4">
+    <h3>Shandong University</h3>
+    <p class="text-muted">
+      Shandong University is where I started my Ph.D. training in Environmental Science and Engineering.
+    </p>
+    <p class="text-muted mb-0">
+      My research experience here includes field observations, chamber experiments, data analysis, and chemical box modelling related to atmospheric HONO and reactive nitrogen chemistry.
+    </p>
+  </div>
 </div>
