@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICAEH 2025 in Hong Kong"
+title: "ICAEH 2025"
 date: 2025-11-14 00:00:00 +0800
 tags: [Conference, Oral Presentation]
 excerpt: >-
@@ -16,4 +16,4 @@ excerpt: >-
 
 I gave an oral presentation at **ICAEH 2025** in Hong Kong, China.
 
-My presentation focused on Marine sources of HONO and its impacts on atmospheric oxidation.
+My presentation focused on "Marine sources of HONO and its impacts on atmospheric oxidation".
