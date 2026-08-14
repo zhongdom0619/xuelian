@@ -10,10 +10,10 @@ images:
   desc: Group moment.
 - src: /assets/images/showcase/trace/trace-2.jpg
   title: TRACE Group
-  desc: Research life.
+  desc: Group moment.
 - src: /assets/images/showcase/trace/trace-3.jpg
   title: TRACE Group
-  desc: Fieldwork and discussion.
+  desc: Group moment.
 ---
 
 <div class="row align-items-center">
